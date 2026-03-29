@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Amanda 👋
 
-<!--
-**AmandaMartins20/AmandaMartins20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora focada em automação e integração de sistemas.
 
-Here are some ideas to get you started:
+## Tecnologias
+- JavaScript
+- React
+- Node.js
+- Automação com Make
+- Integrações WhatsApp API
+- Google APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+📅 Automação de agendamento para clínica-escola  
+Integração: WhatsApp + ChatGPT + Google Agenda + Gmail
+
+🤖 Chatbot de atendimento automatizado
+
+## Contato
+📧amandafreitas200416@gmail.com
+🔗https://www.linkedin.com/in/amanda-martins-b8a40432a?utm_source=share_via&utm_content=profile&utm_medium=member_android
